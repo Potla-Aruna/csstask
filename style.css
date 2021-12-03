@@ -1,0 +1,25 @@
+/*Begin here*/
+.drop{
+    background-color: blue;
+    color:white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 10px;
+
+}
+.drop:hover{
+
+background-color: royalblue;
+}
+.drop:active{
+
+    background-color: rgb(99, 125, 201);
+    }
+    .down{
+        background-color: rgb(140, 140, 231);
+        color:white;
+        border: none;
+        padding: 8px 20px;
+        border-radius: 10px;
+    
+    }
